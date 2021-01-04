@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/google-tasks-icon.png</file>
+        <file>resources/fonts/Roboto-Regular.ttf</file>
+    </qresource>
+</RCC>
